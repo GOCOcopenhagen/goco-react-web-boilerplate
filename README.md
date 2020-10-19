@@ -1,4 +1,4 @@
-# Goco client template
+# Goco React Web Boilerplate
 
 `npm run start` to start the project
 
