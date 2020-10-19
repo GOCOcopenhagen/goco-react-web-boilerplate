@@ -1,4 +1,4 @@
-# Goco React Web Boilerplate
+# GOCO React Web Boilerplate
 
 `npm run start` to start the project
 
