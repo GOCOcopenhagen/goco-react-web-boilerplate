@@ -1,5 +1,11 @@
 # GOCO React Web Boilerplate
 
+#### Engine: `v12.16.*`
+#### React-version `=<16.8`
+#### AWS CLI `2`
+#### npm `6.14.4`
+#### amplify cli `~4.27.2`
+
 `npm run start` to start the project
 
 ## Components
