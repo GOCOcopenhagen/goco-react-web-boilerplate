@@ -3,8 +3,12 @@
 #### Engine: `v12.16.*`
 #### React-version `=<16.8`
 #### AWS CLI `2`
-#### npm `6.14.4`
+#### npm `6.14.*`
 #### amplify cli `~4.27.2`
+
+## Commands
+
+`npm run i` to install the project
 
 `npm run start` to start the project
 
