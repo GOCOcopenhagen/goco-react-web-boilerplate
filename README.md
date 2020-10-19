@@ -13,6 +13,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+ ## Design
+ - This project uses [Atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
+
 ## Available Scripts
 
 In the project directory, you can run:
