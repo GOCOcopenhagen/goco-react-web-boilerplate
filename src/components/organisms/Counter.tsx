@@ -20,7 +20,7 @@ export const Counter: React.FC<Props> = () => {
     return (
         <>
             <DisplayCount count={testCounter.count} />
-            <SampleButton onClick={handleIncrement} type="button">Click me to increment</SampleButton>
+            <SampleButton onClick={handleIncrement} type="button" margin>Click me to increment</SampleButton>
         </>
     )
 }
