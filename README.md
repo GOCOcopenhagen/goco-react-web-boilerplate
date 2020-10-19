@@ -8,7 +8,7 @@
 
 ## Commands
 
-`npm run i` to install the project
+`npm i` to install the project
 
 `npm run start` to start the project
 
