@@ -6,7 +6,6 @@
 #### npm `6.14.*`
 #### amplify cli `~4.27.2`
 
-## Commands
 
 `npm i` to install the project
 
@@ -29,6 +28,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm i` 
+This command install the project
+
 
 ### `npm run start`
 
@@ -68,3 +71,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+## Notable documentation
+- [React](https://reactjs.org/docs/getting-started.html)
+- [Amplify](https://docs.amplify.aws/lib/q/platform/js)
