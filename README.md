@@ -24,6 +24,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
  ## Design
  - This project uses [Atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
+ 
+## Notable documentation
+- [React](https://reactjs.org/docs/getting-started.html)
+- [Amplify](https://docs.amplify.aws/lib/q/platform/js)
 
 ## Available Scripts
 
@@ -72,8 +76,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-
-
-## Notable documentation
-- [React](https://reactjs.org/docs/getting-started.html)
-- [Amplify](https://docs.amplify.aws/lib/q/platform/js)
