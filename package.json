@@ -1,7 +1,15 @@
 {
   "name": "goco-react-web-boilerplate",
   "version": "0.1.0",
+  "author": "GOCO-Copenhagen - Boilerplate Code",
   "private": true,
+  "engines" : { 
+    "node" : "12.16.*" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GOCOcopenhagen/goco-react-web-boilerplate.git"
+  },
   "dependencies": {
     "@rematch/core": "^1.4.0",
     "@rematch/persist": "^1.1.6",
