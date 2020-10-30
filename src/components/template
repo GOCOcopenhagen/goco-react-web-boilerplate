@@ -5,11 +5,9 @@ interface Props {
 
 }
 
-const : React.FC<Props> = (props) => {
+export const : React.FC<Props> = (props) => {
 
     return (
 
     )
 }
-
-export default
