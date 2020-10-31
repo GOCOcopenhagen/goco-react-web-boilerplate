@@ -1,4 +1,4 @@
-# GOCO React Web Boilerplate
+# GOCO React Web Boilerplate ⚙️
 
 #### Engine: `v12.16.*`
 #### React-version `=<16.8`
@@ -76,3 +76,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## Security 🛡
+Never ever enclude any .env files, api keys or equvilant
