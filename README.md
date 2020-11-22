@@ -7,6 +7,8 @@
 #### amplify cli `~4.27.2`
 
 
+`npm init --yes` to init the package.json with correct repo, node etc.
+
 `npm i` to install the project
 
 `npm run start` to start the project
