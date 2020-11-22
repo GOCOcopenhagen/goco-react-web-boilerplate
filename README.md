@@ -11,6 +11,8 @@
 
 `npm i` to install the project
 
+`npm i --only=dev` to install Dev Dependencies in the project
+
 `npm run start` to start the project
 
 ## Components
